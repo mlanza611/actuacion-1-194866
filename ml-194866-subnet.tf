@@ -5,4 +5,4 @@ resource "aws_subnet" "ml-194866-subnet" {
   tags = {
     Name = "ml-194866-subnet"
   }
-}
+}s

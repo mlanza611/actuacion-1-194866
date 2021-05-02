@@ -6,4 +6,4 @@ resource "aws_instance" "ml-194866-ec2" {
     Name      ="ml-194866-ec2"
     terraform ="True"
  }
-}
+}s
