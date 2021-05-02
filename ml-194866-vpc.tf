@@ -5,4 +5,4 @@ resource "aws_vpc" "ml-194866-vpc" {
   tags = {
     Name = "ml-194866-vpc"
   }
-}s
+}
